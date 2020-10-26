@@ -6,3 +6,5 @@ excerpt: "Our first formal meeting!"
 image: "/images/pic02.jpg"
 ---
 
+![local image](/images/first_formal_meeting_01.jpg "alt")
+![local image](/images/first_formal_meeting_02.jpg "alt")
