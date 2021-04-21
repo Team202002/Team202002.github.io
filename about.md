@@ -15,30 +15,23 @@ Our page is divided into two major sections. The first part is visualization. We
 
 ## Visualization
 The home page of visualization is an overview of all of our information, including four charts, maps, and a live information update bar. This information bar will show the user today's weather, date, wind, and other weather conditions. At the centre of the page is a map of Ningbo, with a circular marker showing reservoir's location. On both sides of the page are two maps, showing the basic situation of the reservoir, the amount of water stored, the pollution situation and the comparison between region.
+### Map
 <div class="box">
-  <h3>Map<h3>
   <p>
   One map is displaying on this page. Each blue marker represents a reservoir. 
 When users click one marker, an information box pop out, indicating the name, district of the reservoir and the date. Some blue lines connecting other markers may appear, which means these lakes are connected.
   </p>
 </div>
+### Customize
 <div class="box">
-  <h3>Customize<h3>
   <p>
   This page is specially customized for users. The user can choose one or more of the five options including map, air temperature and pollution in the form. Only selected graphs would be shown on the next page. 
   </p>
 </div>
 
 ## Computation graph
+### TensorBoard
 <div class="box">
-  <h3>TensorBoard<h3>
-  <p>
-  In this section, the user interface of the TensorBoard website will be introduced.
-TensorBoard is a tool to visualize models in machine learning by using the TensorFlow framework. In our project, we specifically use TensorBoard to visualize the computation graphs of our GNN model. Besides, other experiment metrics such as loss and accuracy is also included in this visualization tool.
-  </p>
-</div>
-<div class="box">
-  <h3>TensorBoard<h3>
   <p>
   In this section, the user interface of the TensorBoard website will be introduced.
 TensorBoard is a tool to visualize models in machine learning by using the TensorFlow framework. In our project, we specifically use TensorBoard to visualize the computation graphs of our GNN model. Besides, other experiment metrics such as loss and accuracy is also included in this visualization tool.
