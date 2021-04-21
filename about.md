@@ -34,10 +34,10 @@ When users click one marker, an information box pop out, indicating the name, di
 <div class="box">
   <span class="image right"><img src="{{ "/images/customize.jpg" | absolute_url }}" alt="" /></span>
   <p>
-  This page is specially customized for users. The user can choose one or more of the five options including map, air temperature and pollution in the form. Only selected graphs would be shown on the next page.  
+  This page is specially customized for users. The user can choose one or more of the five options including map, air temperature and pollution in the form.
+  Only selected graphs would be shown on the next page.  
   </p>
-</br>
-</br>
+    <p></p>
 </div>
 
 ## Computation graph
@@ -48,7 +48,6 @@ When users click one marker, an information box pop out, indicating the name, di
   In this section, the user interface of the TensorBoard website will be introduced.
 TensorBoard is a tool to visualize models in machine learning by using the TensorFlow framework. In our project, we specifically use TensorBoard to visualize the computation graphs of our GNN model. Besides, other experiment metrics such as loss and accuracy is also included in this visualization tool.
   </p>
-</br> 
 </div>
 
 
