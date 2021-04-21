@@ -26,18 +26,18 @@ The home page of visualization is an overview of all of our information, includi
   <span class="image right"><img src="{{ "/images/pop-out.jpg" | absolute_url }}" alt="" /></span>
   <p>
   One map is displaying on this page. Each blue marker represents a reservoir. 
-When users click one marker, an information box pop out, indicating the name, district of the reservoir and the date. Some blue lines connecting other markers may appear, which means these lakes are connected.
-      
+When users click one marker, an information box pop out, indicating the name, district of the reservoir and the date. Some blue lines connecting other markers may appear, which means these lakes are connected. 
   </p>
+    
 </div>
 ### Customize
 <div class="box">
   <span class="image right"><img src="{{ "/images/customize.jpg" | absolute_url }}" alt="" /></span>
   <p>
-  This page is specially customized for users. The user can choose one or more of the five options including map, air temperature and pollution in the form. Only selected graphs would be shown on the next page. 
-      
-      
+  This page is specially customized for users. The user can choose one or more of the five options including map, air temperature and pollution in the form. Only selected graphs would be shown on the next page.  
   </p>
+    
+    
 </div>
 
 ## Computation graph
@@ -47,8 +47,8 @@ When users click one marker, an information box pop out, indicating the name, di
   <p>
   In this section, the user interface of the TensorBoard website will be introduced.
 TensorBoard is a tool to visualize models in machine learning by using the TensorFlow framework. In our project, we specifically use TensorBoard to visualize the computation graphs of our GNN model. Besides, other experiment metrics such as loss and accuracy is also included in this visualization tool.
-      
   </p>
+    
 </div>
 
 
