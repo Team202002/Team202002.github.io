@@ -28,7 +28,7 @@ The home page of visualization is an overview of all of our information, includi
   One map is displaying on this page. Each blue marker represents a reservoir. 
 When users click one marker, an information box pop out, indicating the name, district of the reservoir and the date. Some blue lines connecting other markers may appear, which means these lakes are connected. 
   </p>
-    
+       <p></p>
 </div>
 ### Customize
 <div class="box">
@@ -38,6 +38,7 @@ When users click one marker, an information box pop out, indicating the name, di
   Only selected graphs would be shown on the next page.  
   </p>
     <p></p>
+       <p></p>
 </div>
 
 ## Computation graph
@@ -48,6 +49,7 @@ When users click one marker, an information box pop out, indicating the name, di
   In this section, the user interface of the TensorBoard website will be introduced.
 TensorBoard is a tool to visualize models in machine learning by using the TensorFlow framework. In our project, we specifically use TensorBoard to visualize the computation graphs of our GNN model. Besides, other experiment metrics such as loss and accuracy is also included in this visualization tool.
   </p>
+       <p></p>
 </div>
 
 
