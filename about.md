@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Design
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
 Our page is divided into two major sections. The first part is visualization. We convert some data into charts, hoping to give users a complete picture and enhance their understanding of the data, so as to facilitate future research. The second part is the computation graph. This is a webpage showing the structure of our GNN model, where researchers could explore and optimize the model used for prediction.
 
@@ -38,7 +38,7 @@ TensorBoard is a tool to visualize models in machine learning by using the Tenso
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
 ## Implementation
 As our project is developed based on an existing system, we decide to implement our website using the same tools as the last team used, along with some updates.
