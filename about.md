@@ -14,11 +14,12 @@ Our page is divided into two major sections. The first part is visualization. We
 <span class="image"><img src="{{ "/images/home.jpg" | absolute_url }}" alt="" /></span>
 
 ## Visualization
-The home page of visualization is an overview of all of our information, including four charts, maps, and a live information update bar. This information bar will show the user today's weather, date, wind, and other weather conditions. At the centre of the page is a map of Ningbo, with a circular marker showing reservoir's location. On both sides of the page are two maps, showing the basic situation of the reservoir, the amount of water stored, the pollution situation and the comparison between region.
 
 <span class="image left"><img src="{{ "/images/visualization.jpg" | absolute_url }}" alt="" /></span>
 
 
+
+The home page of visualization is an overview of all of our information, including four charts, maps, and a live information update bar. This information bar will show the user today's weather, date, wind, and other weather conditions. At the centre of the page is a map of Ningbo, with a circular marker showing reservoir's location. On both sides of the page are two maps, showing the basic situation of the reservoir, the amount of water stored, the pollution situation and the comparison between region.
 
 ### Map
 <div class="box">
