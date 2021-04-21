@@ -16,7 +16,7 @@ Our page is divided into two major sections. The first part is visualization. We
 ## Visualization
 The home page of visualization is an overview of all of our information, including four charts, maps, and a live information update bar. This information bar will show the user today's weather, date, wind, and other weather conditions. At the centre of the page is a map of Ningbo, with a circular marker showing reservoir's location. On both sides of the page are two maps, showing the basic situation of the reservoir, the amount of water stored, the pollution situation and the comparison between region.
 
-<span class="image"><img src="{{ "/images/visualization.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/visualization.jpg" | absolute_url }}" alt="" /></span>
 
 ### Map
 <div class="box">
@@ -24,6 +24,8 @@ The home page of visualization is an overview of all of our information, includi
   One map is displaying on this page. Each blue marker represents a reservoir. 
 When users click one marker, an information box pop out, indicating the name, district of the reservoir and the date. Some blue lines connecting other markers may appear, which means these lakes are connected.
   </p>
+    
+    
   <span class="image right"><img src="{{ "/images/pop-out.jpg" | absolute_url }}" alt="" /></span>
 </div>
 ### Customize
@@ -31,6 +33,8 @@ When users click one marker, an information box pop out, indicating the name, di
   <p>
   This page is specially customized for users. The user can choose one or more of the five options including map, air temperature and pollution in the form. Only selected graphs would be shown on the next page. 
   </p>
+    
+    
   <span class="image right"><img src="{{ "/images/customize.jpg" | absolute_url }}" alt="" /></span>
 </div>
 
@@ -41,7 +45,8 @@ When users click one marker, an information box pop out, indicating the name, di
   In this section, the user interface of the TensorBoard website will be introduced.
 TensorBoard is a tool to visualize models in machine learning by using the TensorFlow framework. In our project, we specifically use TensorBoard to visualize the computation graphs of our GNN model. Besides, other experiment metrics such as loss and accuracy is also included in this visualization tool.
   </p>
-  <span class="image right"><img src="{{ "/images/tensorboard.jpg" | absolute_url }}" alt="" /></span>
+    
+  <span class="image left"><img src="{{ "/images/tensorboard.jpg" | absolute_url }}" alt="" /></span>
 </div>
 
 
