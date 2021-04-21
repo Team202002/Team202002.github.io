@@ -37,9 +37,7 @@ When users click one marker, an information box pop out, indicating the name, di
   This page is specially customized for users. The user can choose one or more of the five options including map, air temperature and pollution in the form.
   Only selected graphs would be shown on the next page.  
   </p>
-  <p></p>
-  <p></p>
-  <p></p>
+  <p></br></p>
   <p></p>
 </div>
 
