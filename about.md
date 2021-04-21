@@ -23,28 +23,28 @@ The home page of visualization is an overview of all of our information, includi
 
 ### Map
 <div class="box">
+  <span class="image right"><img src="{{ "/images/pop-out.jpg" | absolute_url }}" alt="" /></span>
   <p>
   One map is displaying on this page. Each blue marker represents a reservoir. 
 When users click one marker, an information box pop out, indicating the name, district of the reservoir and the date. Some blue lines connecting other markers may appear, which means these lakes are connected.
   </p>
-  <span class="image right"><img src="{{ "/images/pop-out.jpg" | absolute_url }}" alt="" /></span>
 </div>
 ### Customize
 <div class="box">
+  <span class="image right"><img src="{{ "/images/customize.jpg" | absolute_url }}" alt="" /></span>
   <p>
   This page is specially customized for users. The user can choose one or more of the five options including map, air temperature and pollution in the form. Only selected graphs would be shown on the next page. 
   </p>
-  <span class="image right"><img src="{{ "/images/customize.jpg" | absolute_url }}" alt="" /></span>
 </div>
 
 ## Computation graph
 ### TensorBoard
 <div class="box">
+  <span class="image right"><img src="{{ "/images/tensorboard.jpg" | absolute_url }}" alt="" /></span>
   <p>
   In this section, the user interface of the TensorBoard website will be introduced.
 TensorBoard is a tool to visualize models in machine learning by using the TensorFlow framework. In our project, we specifically use TensorBoard to visualize the computation graphs of our GNN model. Besides, other experiment metrics such as loss and accuracy is also included in this visualization tool.
   </p>
-  <span class="image right"><img src="{{ "/images/tensorboard.jpg" | absolute_url }}" alt="" /></span>
 </div>
 
 
@@ -55,9 +55,9 @@ For the machine learning part, language use will be Python. And for setting up t
 
 
 ## Software development Procedure
+<span class="image right"><img src="{{ "/images/procedure.jpg" | absolute_url }}" alt="" /></span>
 We apply the agile development process. The main process is to identify a new requirement, and then discuss whether it is needed and how to implement it. After that, the team leader usually evaluates the difficulty of the task and assigns it to the team members. After the completion, the team leader is responsible for the integration. In addition, we send the screenshot to the teacher for confirmation at the formal meeting every week to ensure that we meet the requirement.
 Besides, we applied pair programming. Four people were divided into two groups, and each component was completed by two people. Two people checked each other's code, which dramatically reduced the possibility of errors.
-<span class="image right"><img src="{{ "/images/procedure.jpg" | absolute_url }}" alt="" /></span>
 
 
 ## Future work
